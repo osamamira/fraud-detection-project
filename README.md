@@ -121,7 +121,7 @@ Prepare final documentation and create a presentation for stakeholders showcasin
 
 The project uses the **Credit Card Fraud Detection Dataset** available on Kaggle. This dataset contains transactions made by credit cards in September 2013 by European cardholders, with only 492 fraud cases out of 284,807 transactions.
 
-- Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- Source: [Drive](https://drive.google.com/file/d/1XwwnoZ3oXNXlaeiWe_4YEUPLixP3XHpp/view?usp=drive_link)
 
 ---
 
