@@ -9,9 +9,8 @@
     - [Milestone 4: MLOps, Deployment & Monitoring](#milestone-4-mlops-deployment--monitoring)
     - [Milestone 5: Final Documentation & Presentation](#milestone-5-final-documentation--presentation)
 3. [Dataset](#dataset)
-4. [Setup Instructions](#setup-instructions)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ---
 
@@ -119,9 +118,9 @@ Prepare final documentation and create a presentation for stakeholders showcasin
 
 ## Dataset
 
-The project uses the **Credit Card Fraud Detection Dataset** available on Kaggle. This dataset contains transactions made by credit cards in September 2013 by European cardholders, with only 492 fraud cases out of 284,807 transactions.
+The project uses the **Credit Card Transactions Dataset** available on Kaggle. The Credit Card Transactions Dataset provides detailed records of credit card transactions, including information about transaction times, amounts, and associated personal and merchant details.
 
-- Source: [Drive](https://drive.google.com/file/d/1XwwnoZ3oXNXlaeiWe_4YEUPLixP3XHpp/view?usp=drive_link)
+- Source: [Kaggle]([https://drive.google.com/file/d/1XwwnoZ3oXNXlaeiWe_4YEUPLixP3XHpp/view?usp=drive_link](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset))
 
 ---
 
@@ -129,4 +128,4 @@ The project uses the **Credit Card Fraud Detection Dataset** available on Kaggle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection-project.git
+   git clone https://github.com/osamamira/fraud-detection-project.git
